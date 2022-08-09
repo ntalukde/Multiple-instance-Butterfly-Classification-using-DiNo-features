@@ -1,1 +1,1 @@
-# Multiple-instance-Open-set-Butterfly-Classification
+# Multiple-instance-Butterfly-Classification-using-DiNo-features
